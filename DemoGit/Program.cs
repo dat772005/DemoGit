@@ -10,6 +10,10 @@ namespace DemoGit
     {
         static void Main(string[] args)
         {
+            int x = 10;
+            int y = 20;
+            int a= x + y;
+            Console.WriteLine("Tổng của x và y là: " +a);
         }
     }
 }
