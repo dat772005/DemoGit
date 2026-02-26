@@ -14,6 +14,8 @@ namespace DemoGit
             int y = 20;
             int a= x + y;
             Console.WriteLine("Tổng của x và y là: " +a);
+
+            Console.WriteLine("Hiệu của x và y là: " + (x - y));
         }
     }
 }
